@@ -355,5 +355,3 @@ iterm2_setup
 zsh_setup
 macbook_settings
 echo "Done!"
-
-#@TODO install vagrant and sites folder
