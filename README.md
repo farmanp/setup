@@ -31,7 +31,7 @@ less mac_setup
 Execute the downloaded script:
 
 ```
-sh mac 2>&1 | tee ~/mac_setup.log
+sh mac_setup 2>&1 | tee ~/mac_setup.log
 ```
 
 Optionally, review the log:
