@@ -6,14 +6,6 @@
 # 5. Setting up Mac settings
 # Done! 
 
-fancy_echo() {
-  local fmt="$1"; shift
-
-  # shellcheck disable=SC2059
-  printf "\\n$fmt\\n" "$@"
-}
-
-
 developer_utilities_setup() {
 	fancy_echo "Installing tree, wget, trash, mackup, and node..."
 	brew install tree
