@@ -78,15 +78,6 @@ homebrew_setup() {
 	echo "Installing homebrew cask"
 	brew install cask
 
-#@TODO install our custom fonts and stuff
-
-#@TODO Check to see if this is relevant
-# echo "Copying dotfiles from Github"
-# cd ~
-# git clone git@github.com:bradp/dotfiles.git .dotfiles
-# cd .dotfiles
-# sh symdotfiles
-
 go_setup() {
 	echo "Installing GoLang"
 	brew install go
