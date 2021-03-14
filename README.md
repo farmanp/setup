@@ -14,6 +14,8 @@ Special shotout to @bradp for his [gist](https://gist.github.com/bradp/bea76b16d
 
 ## How to run 
 
+### Option 1 
+
 Download the script:
 
 ```
@@ -38,6 +40,6 @@ Optionally, review the log:
 less ~/mac_setup.log
 ```
 
-**If you are experiencing issues with that route, please do the following**
+### Option 2
 
 Copy and paste the file locally and run the script on your local environment. 
