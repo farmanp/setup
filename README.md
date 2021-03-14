@@ -38,6 +38,6 @@ Optionally, review the log:
 less ~/mac_setup.log
 ```
 
-**If you are experiencing issues with that route, please do the following^^
+**If you are experiencing issues with that route, please do the following**
 
 Copy and paste the file locally and run the script on your local environment. 
