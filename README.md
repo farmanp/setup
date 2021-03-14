@@ -14,8 +14,4 @@ Special shotout to @bradp for his [gist](https://gist.github.com/bradp/bea76b16d
 
 ## How to run 
 
-Download the script: 
-
-```
-curl --remote-name https://raw.githubusercontent.com/farmanp/setup/main/mac_setup.sh
-```
+Currently working on a way to directly call the script, BUT for the time being, you can simply copy and paste the file locally and run the script on your local environment. 
