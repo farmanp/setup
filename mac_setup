@@ -1,9 +1,18 @@
 # Overview of this script is running an automated installation workflow that goes step by step below:
-# 1. Github setup
-# 2. Install XCode
-# 3. Install Homebrew
-# 4. Install Development tools (programming languages, libraries, etc)
-# 5. Setting up Mac settings
+# 1. Homebrew
+# 2. Developer Utilities
+# 3. Browsers
+# 4. Git
+# 5. Github
+# 6. XCode
+# 7. Go 
+# 8. Java
+# 9. .Net
+# 10. nvm
+# 11. rbenv
+# 12. iTerm 2
+# 13. ZSH 
+
 # Done!
 
 developer_utilities_setup() {
