@@ -9,8 +9,8 @@ Special shotout to @bradp for his [gist](https://gist.github.com/bradp/bea76b16d
 
 ## TODO 
 - Have setup scripts for other environments: 
-  [] Windows
-  [] Linux   
+  - [ ] Windows
+  - [ ] Linux   
 
 ## How to run 
 
