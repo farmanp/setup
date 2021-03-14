@@ -161,12 +161,6 @@ applications_setup() {
 # )
 }
 
-# Install apps to /Applications
-# Default is: /Users/$user/Applications
-# echo "installing apps with Cask..."
-# brew cask install --appdir="/Applications" ${apps[@]}
-# brew cask alfred link
-
 homebrew_setup
 developer_utilities_setup
 browser_install_setup
