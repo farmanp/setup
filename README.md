@@ -38,6 +38,6 @@ Optionally, review the log:
 less ~/mac_setup.log
 ```
 
-OR
+**If you are experiencing issues with that route, please do the following^^
 
-Currently working on a way to directly call the script, BUT for the time being, you can simply copy and paste the file locally and run the script on your local environment. 
+Copy and paste the file locally and run the script on your local environment. 
