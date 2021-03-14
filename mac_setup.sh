@@ -7,7 +7,7 @@
 # Done! 
 
 developer_utilities_setup() {
-	fancy_echo "Installing tree, wget, trash, mackup, and node..."
+	echo "Installing tree, wget, trash, mackup, and node..."
 	brew install tree
 	brew install wget
 	brew install trash
