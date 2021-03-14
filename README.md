@@ -14,4 +14,30 @@ Special shotout to @bradp for his [gist](https://gist.github.com/bradp/bea76b16d
 
 ## How to run 
 
+Download the script:
+
+```
+curl --remote-name https://raw.githubusercontent.com/farmanp/laptop/main/mac_setup
+```
+
+Review the script (avoid running scripts you haven't read!):
+
+```
+less mac_setup
+```
+
+Execute the downloaded script:
+
+```
+sh mac 2>&1 | tee ~/mac_setup.log
+```
+
+Optionally, review the log:
+
+```
+less ~/mac_setup.log
+```
+
+OR
+
 Currently working on a way to directly call the script, BUT for the time being, you can simply copy and paste the file locally and run the script on your local environment. 
